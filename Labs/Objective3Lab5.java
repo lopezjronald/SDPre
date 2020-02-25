@@ -19,7 +19,7 @@ public class Objective3Lab5{
     System.out.println("Please enter another number:");
     numTwo = keyboard.nextDouble();
     System.out.print("The sum of " + numOne + " + ");
-    System.out.println(numTwo + " = " + (numOne + numTwo));
+    System.out.println(numTwo + " = " + (numOne+numTwo));
     keyboard.close();
   }
 }
