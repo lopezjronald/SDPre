@@ -24,7 +24,7 @@ public class BooleanExpressions{
     System.out.println(x + " is NOT EQUAL TO " + y + ": " + d);
     System.out.println(x + " is GREATER THAN " + y + ": " + e);
     System.out.println(x + " is GREATER THAN / EQUAL TO " + y + ": " + f);
-    System.out.println();
+    System.out.println(); 
 
     System.out.println(!(x<y) + " " + (x>=y) );
     System.out.println(!(x<=y) + " " + (x>y));
